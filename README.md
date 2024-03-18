@@ -8,3 +8,6 @@ I have used David Baraff's research paper called "Large Steps in Cloth Simulatio
 
 I am planning to improve this project by improving the ball collision and the lighting. I also want to allow the user to move the cloth around in the environment. 
 Currently, if the iteration is set too low, the cloth simulation is most likely to fall - I will implement a limit here, however currently, this can be fixed with the "reset" button. 
+
+![image](https://github.com/emmifogarasi/clothsim/assets/163855278/1a31b8e7-b6de-4fee-a532-67af4c2c2c23)
+
